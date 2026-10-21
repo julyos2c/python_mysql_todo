@@ -1,3 +1,10 @@
+![Uploading Screenshot 2026-10-21 114147.png…]()
+
+
+
+
+
+
 # Python + MySQL Todo List Management System
 
 A beginner-friendly, clean, and robust command-line Todo List Management System built using **Python 3**, **MySQL**, and **mysql-connector-python**.
