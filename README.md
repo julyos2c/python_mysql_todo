@@ -1,4 +1,4 @@
-![Uploading Screenshot 2026-10-21 114147.png…]()
+[Screenshot 2026-10-21 114147.png…]()
 
 
 
